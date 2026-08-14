@@ -1,1 +1,1 @@
-# Pr-ctica---Uso-de-Git
+# Practica---Uso-de-Git
